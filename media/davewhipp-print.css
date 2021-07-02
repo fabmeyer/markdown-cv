@@ -3,11 +3,6 @@
    License: none (public domain)
 */
 
-@font-face {
-	font-family: 'Actor';
-	src:  url('./Actor-Regular.ttf') format('ttf');
-  }
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -60,7 +55,7 @@ body {
 	font-size: 12pt;
 	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Actor, Avenir, Verdana, sans-serif;
+	font-family: ETH Light, Avenir, Verdana, sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -117,7 +112,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 65%;
 	margin-bottom: 0.25em;
 	/*margin-top: -0.5em;*/
 }
