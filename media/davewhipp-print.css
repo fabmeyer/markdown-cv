@@ -52,7 +52,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
+	font-size: 11pt;
 	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: ETH Light, Avenir, Verdana, sans-serif;
@@ -163,7 +163,7 @@ h1+p {
 h2 {
 	font-size: 2em;
 	line-height: 1em;
-	margin-top: 1.0em;
+	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	position: relative;
 	top: 1.0em;
@@ -174,7 +174,7 @@ h2 {
 .header h2 {
 	font-size: 2em;
 	line-height: 1em;
-	margin-top: 1.0em;
+	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	position: relative;
 	top: 1.0em;
