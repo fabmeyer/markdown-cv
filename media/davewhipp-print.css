@@ -57,7 +57,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
+	font-size: 12pt;
 	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Actor, Avenir, Verdana, sans-serif;
@@ -76,15 +76,29 @@ p {
 	page-break-before: avoid;
 }
 
+.header {
+	background-color: rgb(200,225,250);
+}
+
 .header p {
 	position: relative;
 	left: 0;
-	margin-bottom: 0.2em;
-	margin-left: 0;
-	margin-right: 0;
-	width: 60%;	
+	margin-left: 0.5cm;
+	margin-right: 0.5cm;
+	margin-bottom: 0;
+	width: 60%;
 }
 
+.header a {
+	margin-left: 0.5cm;
+	margin-right: 0.5cm;
+}
+
+.header h1 {
+	margin-left: 0.5cm;
+	margin-right: 0.5cm;
+}
+  
 code {
 	font: normal normal;
 	font-size: 90%;
@@ -104,7 +118,7 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.25em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -133,13 +147,13 @@ h1,h2,h3,h4 {
 	color: #2a4;
 	font-weight: 200;
 	font-family: Helvetica Neue, Avenir, Cousine, Verdana, sans-serif;
-	width: 80%;
+	width: 90%;
 }
 
 h1 {
 	text-align: left;
-	font-size: 4em;
-	line-height: 2em;
+	font-size: 3.5em;
+	line-height: 1.75em;
 	position: relative;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -152,23 +166,23 @@ h1+p {
 }
 
 h2 {
-	font-size: 2.0em;
-	line-height: 1.25em;
-	margin-top: 1.5em;
+	font-size: 2em;
+	line-height: 1em;
+	margin-top: 1.0em;
 	margin-bottom: 0.5em;
 	position: relative;
-	top: 1.5em;
+	top: 1.0em;
 	text-align: right;
 	width: 20%;
 }
 
 .header h2 {
-	font-size: 2.0em;
-	line-height: 1.25em;
-	margin-top: 1.5em;
+	font-size: 2em;
+	line-height: 1em;
+	margin-top: 1.0em;
 	margin-bottom: 0.5em;
 	position: relative;
-	top: 1.5em;
+	top: 1.0em;
 	text-align: right;
 	width: 20%;
 }
@@ -221,4 +235,5 @@ strong {
 
 img {
 	border-radius: 100%;
+	width: 240px;
 }

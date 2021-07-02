@@ -70,12 +70,16 @@ p {
 	width: 55%;
 }
 
+.header {
+	background-color: rgba(15,30,60,0.10);
+}
+
 .header p {
 	position: relative;
 	left: 0;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;	
+	width: 55%;
 }
 
 code {
@@ -217,4 +221,5 @@ strong {
 
 img {
 	border-radius: 100%;
+	width: 320px;
 }

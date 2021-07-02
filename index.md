@@ -1,8 +1,4 @@
----
-layout: cv
-title: Lebenslauf - Fabian Meyer
----
-<div class="header" style="display: flex; align-items: center; background-color: rgba(15,30,60,0.10); padding: 20px; border-radius: 8px;">
+<div class="header" style="display: flex; align-items: center; padding: 20px; border-radius: 8px;">
     <div style="width: 50%; display: block;">
         <div style="margin: 10px;">
             <h1>
@@ -23,7 +19,7 @@ title: Lebenslauf - Fabian Meyer
         </div>
     </div>
     <div style="width: 50%; display: block; margin: 10px;">
-        <img src="./portrait.jpg" alt="Portrait" style="width: 320px;">
+        <img src="./portrait.jpg" alt="Portrait">
     </div>
 </div>
 
