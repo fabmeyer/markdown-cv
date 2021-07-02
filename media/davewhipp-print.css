@@ -52,8 +52,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
-	line-height: 1.25em;
+	font-size: 10pt;
+	line-height: 1.125em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: ETH Light, Avenir, Verdana, sans-serif;
 	/*margin-top: 1em;
@@ -67,8 +67,6 @@ p {
 	margin-left: 2cm;
 	margin-right: 4cm;
 	width: 60%;
-	page-break-after: avoid;
-	page-break-before: avoid;
 }
 
 .header {
@@ -147,8 +145,8 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3.5em;
-	line-height: 1.75em;
+	font-size: 3em;
+	line-height: 1.5em;
 	position: relative;
 	margin-top: 0;
 	margin-bottom: 0;
@@ -161,23 +159,23 @@ h1+p {
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	line-height: 1em;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	position: relative;
-	top: 1.0em;
+	top: 0.75em;
 	text-align: right;
 	width: 20%;
 }
 
 .header h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	line-height: 1em;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	position: relative;
-	top: 1.0em;
+	top: 0.75em;
 	text-align: right;
 	width: 20%;
 }
@@ -231,4 +229,9 @@ strong {
 img {
 	border-radius: 100%;
 	width: 240px;
+}
+
+.page-break {
+	break-after: always;
+	visibility: hidden;
 }
