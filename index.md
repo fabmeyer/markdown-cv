@@ -1,8 +1,3 @@
----
-layout: cv
-title: Lebenslauf - Fabian Meyer
----
-
 <div class="header" style="display: flex; align-items: center; padding: 20px; border-radius: 8px;">
     <div style="width: 50%; display: block;">
         <div style="margin: 10px;">
@@ -20,7 +15,7 @@ title: Lebenslauf - Fabian Meyer
         </div>
         <br>
         <div id="adress" style="margin: 10px;">
-            <a href="fabian@meyerfoto.ch">Mail: fabian@meyerfoto.ch</a><br>
+            <a href="mailto:fabian@meyerfoto.ch">Mail: fabian@meyerfoto.ch</a><br>
         </div>
     </div>
     <div style="width: 50%; display: block; margin: 10px;">
@@ -45,6 +40,8 @@ title: Lebenslauf - Fabian Meyer
 * 2003 - 2004   &nbsp; Musisches 10. Schuljahr Luzern 
 * 2000 - 2003   &nbsp; Sekundarschule Rothenburg 
 * 1994 - 2000   &nbsp; Primarschule Rothenburg 
+
+<div class="page-break">page break</div>
 
 ## Beruflicher Werdegang
 
