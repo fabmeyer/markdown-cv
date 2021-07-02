@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Lebenslauf - Fabian Meyer
+---
+
 <div class="header" style="display: flex; align-items: center; padding: 20px; border-radius: 8px;">
     <div style="width: 50%; display: block;">
         <div style="margin: 10px;">
