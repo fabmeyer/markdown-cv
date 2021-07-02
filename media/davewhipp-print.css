@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: 'Actor';
-	src:  url('../Actor-Regular.ttf') format('ttf');
+	src:  url('./Actor-Regular.ttf') format('ttf');
   }
 
 html, body, div, span, applet, object, iframe,
@@ -58,7 +58,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 11pt;
-	line-height: 1.35em;
+	line-height: 1.25em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Actor, Avenir, Verdana, sans-serif;
 	/*margin-top: 1em;
@@ -70,7 +70,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.2em;
 	margin-left: 2cm;
-	margin-right: 2cm;
+	margin-right: 4cm;
 	width: 60%;
 	page-break-after: avoid;
 	page-break-before: avoid;
@@ -139,7 +139,8 @@ h1 {
 	font-size: 4em;
 	line-height: 2em;
 	position: relative;
-	left: 25%;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 h1+p {
@@ -149,23 +150,25 @@ h1+p {
 }
 
 h2 {
-	font-size: 2.5em;
+	font-size: 2.0em;
 	line-height: 1.25em;
 	color: #2a4;
-	margin-top: 2em;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
 	position: relative;
-	top: 2em;
+	top: 1.5em;
 	text-align: right;
 	width: 20%;
 }
 
 .header h2 {
-	font-size: 2.5em;
+	font-size: 2.0em;
 	line-height: 1.25em;
 	color: #2a4;
-	margin-top: 1em;
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
 	position: relative;
-	top: 1.4em;
+	top: 1.5em;
 	text-align: right;
 	width: 20%;
 }
