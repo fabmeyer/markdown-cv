@@ -45,8 +45,6 @@ title: Lebenslauf - Fabian Meyer
 * 2000 - 2003   &nbsp; Sekundarschule Rothenburg 
 * 1994 - 2000   &nbsp; Primarschule Rothenburg 
 
-<div class="page-break">page break</div>
-
 ## Beruflicher Werdegang
 
 * 2020 - 2021   &nbsp; Internship als Programmierer (Analyse von Satellitendaten) beim Bundesamt für Meteorologie und Klimatologie in Locarno-Monti (Referenz: Herr Marco Sassi) 
