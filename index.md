@@ -65,21 +65,22 @@ title: Lebenslauf - Fabian Meyer
 
 ## Informatik Kenntnisse
 
-* Datenverarbeitung mit R (tidyverse) und Python (pandas, numpy) 
-* Arbeiten auf Linux server via SSH (Ubuntu, RedHat) 
-* Schreiben von shell scripts mit BASH / SH 
-* Produktion von Dashboards / Webapps mit R (Shiny) und Python (Plotly-Dash) 
-* Webentwicklung mit WordPress als Frontend-Entwickler (HTML5, CSS3, JavaScript, PHP), Templating-Engines (Twig), CSS-Präprozessoren (Sass) 
-* Umgang mit Git (sowie GitHub und GitLab) 
-* Erfahrung mit Deeplearning-frameworks Keras und MMDetection 
-* Bildverarbeitung mit Python (openCV, PIL) 
-* JavaScript Technologien: React, Vue 
-* Static Site Generators: Gatsby 
-* Erfahrung mit REST API 
+* Datenverarbeitung mit R (tidyverse) und Python (pandas, numpy)
+* Arbeiten auf Linux server via SSH (Ubuntu, RedHat)
+* Schreiben von shell scripts mit BASH / SH
+* Produktion von Dashboards / Webapps mit R (Shiny) und Python (Plotly-Dash)
+* Webentwicklung mit WordPress als Frontend-Entwickler (HTML5, CSS3, JavaScript, PHP), Templating-Engines (Twig), CSS-Präprozessoren (Sass)
+* Umgang mit Git (sowie GitHub und GitLab)
+* Erfahrung mit Deeplearning-frameworks Keras und MMDetection
+* Bildverarbeitung mit Python (openCV, PIL)
+* JavaScript Technologien: React, Vue
+* Static Site Generators: Gatsby
+* Erfahrung mit REST API
 * Erfahrung mit CMS: WordPress & Netlify 
-* Grundkentnisse in C++, Java und Matlab 
-* Grundkentnisse in Rust (momentan am Lernen) 
-* Erfahrung mit Blender, Three.js, WebGL  (3D-Modelling, Rendering) 
+* Grundkentnisse in C++, Java und Matlab
+* Grundkentnisse in Rust (momentan am Lernen)
+* Erfahrung mit Blender, Three.js, WebGL  (3D-Modelling, Rendering)
+* Erfahrung mit GIS: ArcGis
 
 ## Fotografische Kenntnisse
 
