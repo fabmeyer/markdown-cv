@@ -58,8 +58,8 @@ body {
 	line-height: 2em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Actor, Verdana, sans-serif;
-	margin-top: 2em;
-	margin-left: 2em;
+	margin-top: 4em;
+	margin-left: 4em;
 }
 
 p {
@@ -71,7 +71,7 @@ p {
 }
 
 .header {
-	background-color: rgba(15,30,60,0.10);
+	background-color: rgba(30,60,120,0.10);
 }
 
 .header p {
