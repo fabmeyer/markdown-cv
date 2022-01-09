@@ -13,7 +13,7 @@ title: Lebenslauf - Fabian Meyer
         <div style="margin: 10px;">
             <p>
                 Fabian Meyer<br>
-                Obergrundstrasse 117<br>
+                Grüneggstrasse 9<br>
                 6005 Luzern
             </p>
         </div>
@@ -103,3 +103,11 @@ title: Lebenslauf - Fabian Meyer
 * Musik und Synthesizer 
 * Sport und Natur 
 * Kochen und Reisen 
+
+## Referenzen
+
+* Auf Verlangen
+
+## Verfügbarkeit
+
+* Per sofort
