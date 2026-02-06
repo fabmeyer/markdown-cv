@@ -1,0 +1,22 @@
+div {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+span, a, p {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+img {
+    width: 200px;
+}
+
+#container {
+    background-color: lightgray;
+}

@@ -9,8 +9,8 @@ class Cell {
 }
 
 // grid parameters
-let cols = 250;
-let rows = 250;
+let cols = 200;
+let rows = 200;
 let cell_size = 2;
 
 // create a 2D array with given number of columns and rows
