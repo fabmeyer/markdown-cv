@@ -9,9 +9,9 @@ class Cell {
 }
 
 // grid parameters
-let cols = 200;
-let rows = 200;
-let cell_size = 2;
+let cols = 400;
+let rows = 400;
+let cell_size = 3;
 
 // create a 2D array with given number of columns and rows
 let grid = new Array(cols).fill().map(() => new Array(rows));
