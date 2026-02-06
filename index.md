@@ -6,8 +6,8 @@ title: Lebenslauf - Fabian Meyer
 <div class="header" style="display: flex; align-items: center; justify-content: center; width: 400px; height: 200px; padding: 20px; margin: 20px;">
     <div style="width: 50%; display: block;">
         <div style="padding: 10px; margin: 10px;">
-            <a href="./Fabian_Meyer_Resume_2pager_copy.pdf" target="_blank" rel="noopener noreferrer">
-                <span>CV Fabian Meyer</span>
+            <a href="./Fabian_Meyer_Resume_2pager.pdf" target="_blank" rel="noopener noreferrer">
+                <span style="">CV Fabian Meyer</span>
             </a>
         </div>
     </div>
