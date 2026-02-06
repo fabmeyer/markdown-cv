@@ -2,6 +2,7 @@
 layout: cv
 title: Lebenslauf - Fabian Meyer
 ---
+<div id="sketch-holder" style="width: 400px; height: 400px; margin: 0 auto 20px auto;"></div>
 <div class="header" style="display: flex; align-items: center; padding: 20px; border-radius: 8px;">
     <div style="width: 50%; display: block;">
         <div style="margin: 10px;">
