@@ -4,12 +4,20 @@ div {
 }
 
 span, a, p {
+    display: block;
     font-family: 'Actor', 'Helvetica', 'Arial', sans-serif;
     font-size: 18px;
+    line-height: 2em;
 }
 
 img {
     width: 200px;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #content {
@@ -19,5 +27,6 @@ img {
 }
 
 #text-div {
-    display: block;
+    background-color: white;
+    border-radius: 8px;
 }
