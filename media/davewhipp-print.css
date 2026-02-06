@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background-color: black;
+	background-color: grey;
 }
 ol, ul {
 	list-style: none;
@@ -52,7 +52,7 @@ table {
 /* end of reset */
 
 body {
-	background-color: black;
+	background-color: grey;
 	font: normal normal 400;
 	font-size: 10pt;
 	line-height: 1.125em;

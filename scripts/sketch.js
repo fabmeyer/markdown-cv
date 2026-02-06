@@ -219,17 +219,28 @@ function rule(cell, neighbors, cell_above, cell_below, cell_left, cell_right) {
     return [next_state, next_age];
 }
 
-// function mouseMoved() {
-//     if (mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
-//         // get cell coordinates
-//         let i = Math.floor(mouseX / cell_size);
-//         let j = Math.floor(mouseY / cell_size);
-//         let cell = grid[i][j];
-//         cell.state = 1; // set to alive
-//         cell.age = 0;
-//         drawGrid();
-//     }
-// }
+function mouseMoved() {
+    if (mouseX > 0 && mouseX < width && mouseY > 0 && mouseY < height) {
+        // get cell coordinates
+        let i_floor = Math.floor(mouseX / cell_size);
+        let j_floor = Math.floor(mouseY / cell_size);
+        let i_ceil = Math.ceil(mouseX / cell_size);
+        let j_ceil = Math.ceil(mouseY / cell_size);
+        let cell_1 = grid[i_floor][j_floor];
+        cell_1.state = 1; // set to alive
+        cell_1.age = 0;
+        let cell_2 = grid[i_floor][j_ceil];
+        cell_2.state = 1; // set to alive
+        cell_2.age = 0;
+        let cell_3 = grid[i_ceil][j_floor];
+        cell_3.state = 1; // set to alive
+        cell_3.age = 0;
+        let cell_4 = grid[i_ceil][j_ceil];
+        cell_4.state = 1; // set to alive
+        cell_4.age = 0;
+        drawGrid();
+    }
+}
 
 // button to reset the grid
 function keyPressed() {
