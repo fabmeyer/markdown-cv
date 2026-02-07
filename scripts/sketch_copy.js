@@ -7,8 +7,8 @@ class Cell {
 }
 
 // grid parameters
-const cols = 400;
-const rows = 400;
+const cols = 320;
+const rows = 320;
 const cell_size = 2;
 
 // create a 2D array with given number of columns and rows
