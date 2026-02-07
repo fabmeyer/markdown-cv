@@ -74,7 +74,8 @@ function drawGrid() {
 }
 
 function setup() {
-    createCanvas(cols * cell_size, rows * cell_size);
+    const canvas = createCanvas(cols * cell_size, rows * cell_size);
+    canvas.parent("sketch-holder");
     initializeGrid();
     drawGrid();
     time_step += 1;
